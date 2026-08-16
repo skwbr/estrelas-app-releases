@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "apkUrl": "https://github.com/skwbr/estrelas-app-releases/releases/download/v1.2.2/estrelas-app.apk",
-  "sha256": "2024de41c9d093683bac168f89e018645e8e417155bcefa467996508d0f7cce7",
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "apkUrl": "https://github.com/skwbr/estrelas-app-releases/releases/download/v1.2.3/estrelas-app.apk",
+  "sha256": "89ed7e55f03fa6ec2992cb45b082e74e775f7a42c29e9a24d8bd68a216e69eaf",
   "sizeBytes": 29151445,
-  "notes": "Corre\u00e7\u00e3o: a checagem de atualiza\u00e7\u00e3o passa a ler o manifesto sem o cache do CDN."
+  "notes": "Vers\u00e3o de verifica\u00e7\u00e3o: exercita a atualiza\u00e7\u00e3o autom\u00e1tica ponta a ponta."
 }
